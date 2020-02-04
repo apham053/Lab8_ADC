@@ -1,7 +1,7 @@
 /*	Author: apham053
  *  Partner(s) Name: Steven Rodriguez
  *	Lab Section:
- *	Assignment: Lab #8  Exercise #2
+ *	Assignment: Lab #8  Exercise #1
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
